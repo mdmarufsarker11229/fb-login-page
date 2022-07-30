@@ -1,0 +1,248 @@
+body {
+	margin:0px;
+}
+.header-area {
+	padding-top:10px;
+	padding-bottom:2px;
+	background:#3D5B99;
+	font-family:tahoma;
+	font-size:12px;
+	font-weight:normal;
+	color:white;
+	
+}
+.logo-area {
+	width:55%;
+	float:left;
+}
+.logo-area img {
+	margin-left:200px;
+	cursor:pointer;
+}
+.login-area {
+	width:45%;
+	overflow:hidden;
+}
+.login-area label,input {
+	display:block;
+	margin-right:10px;
+	margin-top:2px;
+	margin-bottom:2px;
+}
+.email {
+	float:left;
+}
+.email label {
+	cursor:pointer;
+}
+.password {
+	overflow:hidden;
+	float:left;
+}
+.password label {
+	cursor:pointer;
+}
+.password a {
+	text-decoration:none;
+	color:#649FD4;
+}
+.password a:hover {
+	text-decoration:underline;
+	color:blue;
+}
+.login {
+	overflow:hidden;
+}
+.login input[type="submit"] {
+	color:white;
+	background:#3E5C9A;
+	padding-bottom:2px;
+	margin-top:18px;
+	border:1px solid #454170;
+	box-sizing:border-box;
+	cursor:pointer;
+}
+.main-area {
+	font-family:tahoma;
+	font-weight:normal;
+	background:#E9EBEE;
+}
+.left-area {
+	width:55%;
+	float:left;
+	
+}
+.text-image {
+	margin-left:200px;
+}
+.text-area {
+	
+}
+.image-area {
+	
+}
+.text-area p {
+	margin-top:0px;
+}
+.text-area h1 {
+	margin-bottom:1px;
+}
+.image-area {
+	
+}
+.imageone {
+	width:170px;
+	background:white;
+	text-align:center;
+	float:left;
+	margin-right:10px;
+	padding-bottom:20px;
+}
+.imageone img {
+	width:170px;
+	cursor:pointer;
+	padding-bottom:20px;
+}
+.imagetwo img {
+	width:170px;
+	cursor:pointer;
+	padding-bottom:20px;
+}
+.imagetwo {
+	width:170px;
+	background:white;
+	text-align:center;
+	overflow:hidden;
+	padding-bottom:20px;
+}
+
+.right-area {
+	width:25%;
+	overflow:hidden;
+}
+.right-area h4 {
+	font-weight:normal;
+}
+.right-area input[type="text"],
+.right-area input[type="password"] {
+	width:90%;
+	margin-bottom:10px;
+	padding:10px 6px;
+	border:1px solid #BDC7D8;
+	box-sizing:border-box;
+	border-radius:6px;
+	
+}
+.right-area input[type="text"]:nth-child(1) {
+	width:44%;
+	float:left;
+	margin-right:6px;
+}
+.right-area input[type="text"]:nth-child(2) {
+	width:44%;
+	overflow:hidden;
+	
+	
+}
+.birthday-selection select {
+	padding:5px 0px;
+	border:1px solid black;
+}
+.gender-selection input {
+	float:left;
+}
+.gender-selection label {
+	cursor:pointer;
+}
+.female {
+	float:left;
+}
+.male {
+	overflow:hidden;
+	float:left;
+}
+.custom {
+	overflow:hidden;
+}
+.write p {
+	font-size:12px;
+}
+.write a {
+	text-decoration:none;
+	color:#BDC7D8;
+	font-size:12px;
+}
+.write a:hover {
+	text-decoration:underline;
+	color:blue;
+}
+.right-area input[type="submit"] {
+	font-size:32px;
+	background:#64A852;
+	color:white;
+	border:1px solid gray;
+	box-sizing:border-box;
+	border-radius:6px;
+	padding:0px 40px;
+}
+hr {
+	border-top:0px;
+	border-left:0px;
+	border-right:0px;
+}
+.page {
+	margin-bottom:20px;
+}
+.page p {
+	font-size:14px;
+}
+.page p a {
+	font-size:14px;
+	text-decoration:none;
+	color:#BDC7D8;
+	
+}
+.page p a:hover {
+	
+	text-decoration:underline;
+	color:blue;
+	
+}
+}
+.footer-area {
+
+}
+.container {
+	margin-left:100px;
+	margin-right:100px;
+	
+}
+.footer-area ul {
+	list-style:none;
+	padding:0px 0px;
+}
+.footer-area ul li a {
+	float:left;
+	margin-right:20px;
+	text-decoration:none;
+	color:#387DC3;
+	font-size:14px;
+}
+.footer-area ul li a:hover {
+	
+	
+	text-decoration:underline;
+	color:blue;
+}
+.footer-top {
+	overflow:hidden;
+}
+.footer-bottom ul li a {
+	margin-right:100px;
+	padding-bottom:5px;
+	overflow:hidden;
+}
+.copy-right p {
+	margin-left:0px;
+	color:#BDC7D8;
+}
